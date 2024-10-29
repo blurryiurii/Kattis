@@ -1,3 +1,4 @@
+// https://open.kattis.com/problems/skruop
 #include <iostream>
 
 using namespace std;

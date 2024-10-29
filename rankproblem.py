@@ -1,3 +1,4 @@
+# https://open.kattis.com/problems/rankproblem
 # input
 ranks, num_swaps = map(int, input().split())
 ranks = [f"T{i}" for i in range(1, ranks + 1)]
