@@ -4,3 +4,4 @@
 # real test for real this time.
 
 print(int(input()) ** 0.5 * 4)
+
